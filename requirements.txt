@@ -1,0 +1,4 @@
+aiohttp==3.13.5
+async-lru==2.3.0
+asyncio-atexit==1.0.1
+xlwings==0.35.2

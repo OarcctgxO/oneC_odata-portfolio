@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+.venv/
+*.xml
+*.json
+
+# Локальные учётные данные и списки номенклатуры
+auth.txt
+er.txt
